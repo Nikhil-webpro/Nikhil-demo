@@ -1,3 +1,3 @@
 # Nikhil-demo
-This is my frist Git Respository.<br></br>
+This is my frist Git Respository.
 Author - Nikhil
